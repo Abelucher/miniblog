@@ -14,7 +14,7 @@ body {
   background-blend-mode: darken;
 }
 
-responsive-iframe iframe{
+.responsive-iframe iframe{
   position:absolute;
   top:0;
   left:0;
